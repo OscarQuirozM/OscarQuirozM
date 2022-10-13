@@ -12,7 +12,7 @@
 -   this.age = 26;
 -   this.tools = Arrays.asList("SpringBootSuite","Navicat","VSCode"); 👋👋👋👋👋
 -   this.skills = Arrays.asList("JavaSpring","Angular","Android","JavaWeb","DBA");
--   this.tools = Arrays.asList("es_LA", "en_US", "it_IT");📫
+-   this.tools = Arrays.asList("es_LA", "en_US");📫
 - }
 -}
 
